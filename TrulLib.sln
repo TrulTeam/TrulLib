@@ -5,12 +5,15 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrulLib", "TrulLib\TrulLib.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		TrulLib - Exe|Win32 = TrulLib - Exe|Win32
 		TrulLib Debug - DLL|Win32 = TrulLib Debug - DLL|Win32
 		TrulLib Debug - Static|Win32 = TrulLib Debug - Static|Win32
 		TrulLib Release - DLL|Win32 = TrulLib Release - DLL|Win32
 		TrulLib Release - Static|Win32 = TrulLib Release - Static|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib - Exe|Win32.ActiveCfg = TrulLib - Exe|Win32
+		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib - Exe|Win32.Build.0 = TrulLib - Exe|Win32
 		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - DLL|Win32.ActiveCfg = TrulLib Debug - DLL|Win32
 		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - DLL|Win32.Build.0 = TrulLib Debug - DLL|Win32
 		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - Static|Win32.ActiveCfg = TrulLib Release - Static|Win32
