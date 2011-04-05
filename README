@@ -1,0 +1,30 @@
+TrulLib - The library made for the trul of this world
+=====================================================
+
+This library offer simple and reliable tool to transform
+	the Windows Command Prompt into something very powerfull.
+This library is written in C++ for Visual Studio
+
+Authors
+-------
+
+Rosme(Jean-Sebastien Fauteux) - Main Developper: rosme@trulteam.com
+Redyz(Raphael) - Senior Developper: 
+OuatteDePhoque(Etienne Caya) - Senior Developper: 
+
+Download
+--------
+For the old version(TrolEngine 1.2.4):
+		http://code.google.com/p/trolengine/downloads/list
+For all new version, download directly from github:
+		https://github.com/TrulTeam/TrulLib
+
+Install
+-------
+Bind the static library to your project through Visual Studio
+
+License
+-------
+This library is distributed under GNU GPL 3.0
+The Old version(TrolEngine 1.2.4 and under) were distributed
+	under GNU LGPL 3.0
