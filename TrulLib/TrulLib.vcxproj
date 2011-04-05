@@ -237,9 +237,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="include\trullib\config.h" />
+    <ClInclude Include="include\trullib\random.h" />
+    <ClInclude Include="include\trullib\time.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Executif_Test.cpp" />
+    <ClCompile Include="src\random.cpp" />
+    <ClCompile Include="src\time.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\LICENSE.txt" />

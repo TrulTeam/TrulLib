@@ -12,14 +12,32 @@
     <Filter Include="Other">
       <UniqueIdentifier>{fb9bd2e6-d398-4123-a46b-28dda7fcd9de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header\Include">
+      <UniqueIdentifier>{b60ca912-43bc-4555-b60e-c0006bd8bf5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header\src">
+      <UniqueIdentifier>{c8e2f63b-159e-49c1-a504-67c9010ddc1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\trullib\config.h">
-      <Filter>Header</Filter>
+      <Filter>Header\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\trullib\time.h">
+      <Filter>Header\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\trullib\random.h">
+      <Filter>Header\Include</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Executif_Test.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="src\time.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="src\random.cpp">
       <Filter>Sources</Filter>
     </ClCompile>
   </ItemGroup>
