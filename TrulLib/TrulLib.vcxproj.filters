@@ -10,13 +10,8 @@
       <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
     </Filter>
     <Filter Include="Other">
-      <UniqueIdentifier>{7ba8b631-4fe6-4bf8-82e2-b84ce584d2a4}</UniqueIdentifier>
+      <UniqueIdentifier>{fb9bd2e6-d398-4123-a46b-28dda7fcd9de}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\README">
-      <Filter>Other</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\trullib\config.h">
@@ -24,8 +19,16 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="include\trullib\Executif_Test.cpp">
+    <ClCompile Include="src\Executif_Test.cpp">
       <Filter>Sources</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README">
+      <Filter>Other</Filter>
+    </None>
+    <None Include="..\LICENSE.txt">
+      <Filter>Other</Filter>
+    </None>
   </ItemGroup>
 </Project>

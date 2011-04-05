@@ -1,27 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrulLib", "TrulLib\TrulLib.vcxproj", "{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrulLib", "TrulLib\TrulLib.vcxproj", "{08299CDB-AD03-4868-AAEA-007864E302F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		TrulLib - Exe|Win32 = TrulLib - Exe|Win32
-		TrulLib Debug - DLL|Win32 = TrulLib Debug - DLL|Win32
-		TrulLib Debug - Static|Win32 = TrulLib Debug - Static|Win32
-		TrulLib Release - DLL|Win32 = TrulLib Release - DLL|Win32
-		TrulLib Release - Static|Win32 = TrulLib Release - Static|Win32
+		Debug DLL|Win32 = Debug DLL|Win32
+		Debug Static|Win32 = Debug Static|Win32
+		Debug|Win32 = Debug|Win32
+		Release DLL|Win32 = Release DLL|Win32
+		Release Static|Win32 = Release Static|Win32
+		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib - Exe|Win32.ActiveCfg = TrulLib - Exe|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib - Exe|Win32.Build.0 = TrulLib - Exe|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - DLL|Win32.ActiveCfg = TrulLib Debug - DLL|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - DLL|Win32.Build.0 = TrulLib Debug - DLL|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - Static|Win32.ActiveCfg = TrulLib Release - Static|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Debug - Static|Win32.Build.0 = TrulLib Release - Static|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Release - DLL|Win32.ActiveCfg = TrulLib Release - DLL|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Release - DLL|Win32.Build.0 = TrulLib Release - DLL|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Release - Static|Win32.ActiveCfg = TrulLib Release - Static|Win32
-		{08066631-52A7-40F0-83A8-8F4F6CDD9DF7}.TrulLib Release - Static|Win32.Build.0 = TrulLib Release - Static|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Debug DLL|Win32.ActiveCfg = Debug DLL|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Debug DLL|Win32.Build.0 = Debug DLL|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Debug Static|Win32.ActiveCfg = Debug Static|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Debug Static|Win32.Build.0 = Debug Static|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Debug|Win32.Build.0 = Debug|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Release DLL|Win32.ActiveCfg = Release DLL|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Release DLL|Win32.Build.0 = Release DLL|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Release Static|Win32.ActiveCfg = Release Static|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Release Static|Win32.Build.0 = Release Static|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Release|Win32.ActiveCfg = Release|Win32
+		{08299CDB-AD03-4868-AAEA-007864E302F5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
